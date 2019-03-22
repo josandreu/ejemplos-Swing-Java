@@ -20,6 +20,8 @@ public class Cartelera extends JFrame {
     private JPanel imagePanel;
     // panel textos
     private JPanel textPanel;
+    // panel para el scroll
+    private JScrollPane scrollPanel;
     // peliculas
     private Pelicula[] peliculas;
 
@@ -44,45 +46,18 @@ public class Cartelera extends JFrame {
         mainPanel.setLayout(new BoxLayout(mainPanel, BoxLayout.Y_AXIS));
         this.add(mainPanel);
 
+        // creamos panel para el scroll, en el constructor el panel al que afecta
+        scrollPanel = new JScrollPane(mainPanel);
+        mainPanel.setAutoscrolls(true);
+        // añadimos el scrollPanel al frame
+        this.add(scrollPanel);
+
         // creamos las películas
         createFilm();
 
         for (Pelicula pelicula : peliculas) {
-            // panel pelicula
-            filmPanel = new JPanel();
-            filmPanel.setBackground(Color.cyan);
-            // queremos que el texto y la imagen estén siempre uno al lado de otro
-            filmPanel.setLayout(new BoxLayout(filmPanel, BoxLayout.X_AXIS));
-            mainPanel.add(filmPanel);
-
-            // panel imagen
-            imagePanel = new JPanel();
-            imagePanel.setBackground(Color.blue);
-            imagePanel.setPreferredSize(new Dimension(180,260));
-            filmPanel.add(imagePanel);
-
-            // panel textos
-            textPanel = new JPanel();
-            textPanel.setLayout(new BoxLayout(textPanel, BoxLayout.Y_AXIS));
-            textPanel.setBackground(Color.white);
-            filmPanel.add(textPanel);
-
-            // imagen de la pelicula, creamos objeto ImageIcon y recuperamos la imagen asignada en el constructor de la pelicula
-            ImageIcon imageIcon = new ImageIcon(pelicula.getImagen());
-            Icon icon = new ImageIcon(imageIcon.getImage().getScaledInstance(180,260,Image.SCALE_SMOOTH));
-
-            // etiqueta con la imagen
-            image = new JLabel();
-            image.setIcon(icon);
-            imagePanel.add(image);
-
-            // etiqueta del titulo
-            title = new JLabel(pelicula.getTitulo());
-            textPanel.add(title);
-
-            // etiqueta del genero, necesitamos colocarla debajo del título, por ello BoxLayout
-            type = new JLabel(pelicula.getGenero());
-            textPanel.add(type);
+            createPanels();
+            createContent(pelicula);
         }
 
     }
@@ -92,6 +67,47 @@ public class Cartelera extends JFrame {
         peliculas[0] = new Pelicula("Spiderman", "Acción", "./src/ejercicios6/carteleraCine/spiderman.jpg");
         peliculas[1] = new Pelicula("Iron man 1", "Acción", "./src/ejercicios6/carteleraCine/ironman.jpg");
         peliculas[2] = new Pelicula("Harry Potter y la piedra filosofal", "Ficción", "./src/ejercicios6/carteleraCine/harrypotter.jpg");
+    }
+
+    private void createPanels() {
+        // panel pelicula
+        filmPanel = new JPanel();
+        filmPanel.setBackground(Color.cyan);
+        // queremos que el texto y la imagen estén siempre uno al lado de otro
+        filmPanel.setLayout(new BoxLayout(filmPanel, BoxLayout.X_AXIS));
+        mainPanel.add(filmPanel);
+
+        // panel imagen
+        imagePanel = new JPanel();
+        imagePanel.setBackground(Color.blue);
+        imagePanel.setPreferredSize(new Dimension(180,260));
+        filmPanel.add(imagePanel);
+
+        // panel textos
+        textPanel = new JPanel();
+        textPanel.setLayout(new BoxLayout(textPanel, BoxLayout.Y_AXIS));
+        textPanel.setBackground(Color.white);
+        filmPanel.add(textPanel);
+    }
+
+    // método encargado de crear el contenido interior de las peliculas
+    private void createContent(Pelicula pelicula) {
+        // imagen de la pelicula, creamos objeto ImageIcon y recuperamos la imagen asignada en el constructor de la pelicula
+        ImageIcon imageIcon = new ImageIcon(pelicula.getImagen());
+        Icon icon = new ImageIcon(imageIcon.getImage().getScaledInstance(180,260,Image.SCALE_SMOOTH));
+
+        // etiqueta con la imagen
+        image = new JLabel();
+        image.setIcon(icon);
+        imagePanel.add(image);
+
+        // etiqueta del titulo
+        title = new JLabel(pelicula.getTitulo());
+        textPanel.add(title);
+
+        // etiqueta del genero, necesitamos colocarla debajo del título, por ello BoxLayout
+        type = new JLabel(pelicula.getGenero());
+        textPanel.add(type);
     }
 
     public static void main(String[] args) {
