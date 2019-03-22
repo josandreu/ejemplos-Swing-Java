@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="860783fe-8da2-498a-8619-b4b5254d0d9a" name="Default" comment="&quot;Interface02 modificada, atributos encapsulados&quot;">
-      <change afterPath="$PROJECT_DIR$/src/ejercicios6/carteleraCine/Cartelera.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicios6/carteleraCine/Pelicula.java" afterDir="false" />
+    <list default="true" id="860783fe-8da2-498a-8619-b4b5254d0d9a" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/panelesJPanel2/BoxLayout/Ventana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/panelesJPanel2/BoxLayout/Ventana.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicios6/carteleraCine/Cartelera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios6/carteleraCine/Cartelera.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -105,8 +103,8 @@
       <file leaf-file-name="Cartelera.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ejercicios6/carteleraCine/Cartelera.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="789">
-              <caret line="93" column="71" selection-start-line="93" selection-start-column="71" selection-end-line="93" selection-end-column="71" />
+            <state relative-caret-position="260">
+              <caret line="84" column="23" lean-forward="true" selection-start-line="84" selection-start-column="23" selection-end-line="84" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -117,14 +115,27 @@
       <file leaf-file-name="Pelicula.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ejercicios6/carteleraCine/Pelicula.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+            <state relative-caret-position="184">
+              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
               <folding>
+                <element signature="e#388#389#0" expanded="true" />
                 <element signature="e#417#418#0" expanded="true" />
                 <element signature="e#450#451#0" expanded="true" />
                 <element signature="e#479#480#0" expanded="true" />
                 <element signature="e#512#513#0" expanded="true" />
                 <element signature="e#541#542#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ventana.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/panelesJPanel2/BoxLayout/Ventana.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -165,9 +176,9 @@
         <option value="$PROJECT_DIR$/src/ejercicios6/Interface01.java" />
         <option value="$PROJECT_DIR$/src/ejercicios6/contadorClicks01/Interface01.java" />
         <option value="$PROJECT_DIR$/src/ejercicios6/carteleraCine/Interfaces03.java" />
-        <option value="$PROJECT_DIR$/src/ejercicios6/carteleraCine/Pelicula.java" />
         <option value="$PROJECT_DIR$/src/ejercicios6/colores02/Interface02.java" />
         <option value="$PROJECT_DIR$/src/panelesJPanel2/BoxLayout/Ventana.java" />
+        <option value="$PROJECT_DIR$/src/ejercicios6/carteleraCine/Pelicula.java" />
         <option value="$PROJECT_DIR$/src/ejercicios6/carteleraCine/Cartelera.java" />
       </list>
     </option>
@@ -181,7 +192,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="2560" />
     <option name="height" value="1440" />
   </component>
@@ -426,12 +437,27 @@
       <workItem from="1552906134446" duration="4686000" />
       <workItem from="1552990677135" duration="2003000" />
       <workItem from="1553069467191" duration="6110000" />
-      <workItem from="1553275344483" duration="8986000" />
+      <workItem from="1553275344483" duration="11731000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;Primera versión de la cartelera&quot;">
+      <created>1553284639852</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553284639852</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&quot;Segunda versión de la cartelera&quot;">
+      <created>1553286128097</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1553286128097</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30091000" />
+    <option name="totallyTimeSpent" value="32836000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1236" y="0" width="1324" height="1440" extended-state="6" />
@@ -502,7 +528,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;Terminada Interface02&quot;" />
     <MESSAGE value="&quot;Interface02 modificada, atributos encapsulados&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Interface02 modificada, atributos encapsulados&quot;" />
+    <MESSAGE value="&quot;Primera versión de la cartelera&quot;" />
+    <MESSAGE value="&quot;Segunda versión de la cartelera&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Segunda versión de la cartelera&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -864,9 +892,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ejercicios6/carteleraCine/Pelicula.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        <state relative-caret-position="184">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
           <folding>
+            <element signature="e#388#389#0" expanded="true" />
             <element signature="e#417#418#0" expanded="true" />
             <element signature="e#450#451#0" expanded="true" />
             <element signature="e#479#480#0" expanded="true" />
@@ -878,8 +907,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/panelesJPanel2/BoxLayout/Ventana.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="31" column="81" lean-forward="true" selection-start-line="31" selection-start-column="81" selection-end-line="31" selection-end-column="81" />
+        <state relative-caret-position="161">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -888,8 +917,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ejercicios6/carteleraCine/Cartelera.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="789">
-          <caret line="93" column="71" selection-start-line="93" selection-start-column="71" selection-end-line="93" selection-end-column="71" />
+        <state relative-caret-position="260">
+          <caret line="84" column="23" lean-forward="true" selection-start-line="84" selection-start-column="23" selection-end-line="84" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
