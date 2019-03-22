@@ -28,8 +28,8 @@ public class Ventana extends JFrame {
         /*
         BoxLayout: hay que pasarle dos parámetros, el 1º el contenido de la ventana, el container
         y el 2º es la forma que queremos ordenar el BoxLayout.
-        BoxLayout.Y_AXIS = se ordenan horizontalmente, uno debajo de otro =
-        BoxLayout.X_AXIS = se ordenan verticalmente, uno al lado del otro ||||
+        BoxLayout.Y_AXIS = se ordenan verticalmente, uno debajo de otro =
+        BoxLayout.X_AXIS = se ordenan horizontalmente, uno al lado del otro ||||
          */
         this.setLayout(new BoxLayout(this.getContentPane(), BoxLayout.Y_AXIS));
         // creamos panel central
