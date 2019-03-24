@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="860783fe-8da2-498a-8619-b4b5254d0d9a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/$ejerciciosLibro/Ejemplo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ejercicios6/carteleraCine/Cartelera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios6/carteleraCine/Cartelera.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Swing/panelesJPanel2/panelesTamañosFijos/Ventana.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,18 +21,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Ventana.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/etiquetasJLabel3/Ventana.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="39" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Ventana.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/botonesJButton4/boton2/Ventana.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -71,7 +61,7 @@
       <file leaf-file-name="Interface01.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ejercicios6/contadorClicks01/Interface01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
+            <state relative-caret-position="92">
               <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -83,31 +73,48 @@
       <file leaf-file-name="Interface02.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ejercicios6/colores02/Interface02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+            <state relative-caret-position="483">
+              <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1861#1862#0" expanded="true" />
                 <element signature="e#1918#1919#0" expanded="true" />
-                <element signature="e#2071#2072#0" expanded="true" />
-                <element signature="e#2128#2129#0" expanded="true" />
-                <element signature="e#2383#2384#0" expanded="true" />
-                <element signature="e#2423#2424#0" expanded="true" />
-                <element signature="e#2695#2696#0" expanded="true" />
-                <element signature="e#2752#2753#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Cartelera.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Cartelera.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ejercicios6/carteleraCine/Cartelera.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="84" column="23" lean-forward="true" selection-start-line="84" selection-start-column="23" selection-end-line="84" selection-end-column="23" />
+            <state relative-caret-position="1337">
+              <caret line="84" column="23" selection-start-line="84" selection-start-column="23" selection-end-line="84" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ejemplo1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/$ejerciciosLibro/Ejemplo1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-349">
+              <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#731#732#0" expanded="true" />
+                <element signature="e#776#777#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="info" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/info">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="628">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
             </state>
           </provider>
         </entry>
@@ -117,14 +124,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="184">
               <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-              <folding>
-                <element signature="e#388#389#0" expanded="true" />
-                <element signature="e#417#418#0" expanded="true" />
-                <element signature="e#450#451#0" expanded="true" />
-                <element signature="e#479#480#0" expanded="true" />
-                <element signature="e#512#513#0" expanded="true" />
-                <element signature="e#541#542#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -132,7 +131,7 @@
       <file leaf-file-name="Ventana.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/panelesJPanel2/BoxLayout/Ventana.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
+            <state relative-caret-position="138">
               <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -180,6 +179,8 @@
         <option value="$PROJECT_DIR$/src/panelesJPanel2/BoxLayout/Ventana.java" />
         <option value="$PROJECT_DIR$/src/ejercicios6/carteleraCine/Pelicula.java" />
         <option value="$PROJECT_DIR$/src/ejercicios6/carteleraCine/Cartelera.java" />
+        <option value="$PROJECT_DIR$/src/$ejerciciosLibro/Ejemplo1.java" />
+        <option value="$PROJECT_DIR$/src/info" />
       </list>
     </option>
   </component>
@@ -192,16 +193,16 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="2560" />
-    <option name="height" value="1440" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -218,40 +219,14 @@
               <item name="Swing" type="b2602c69:ProjectViewProjectNode" />
               <item name="Swing" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ejercicios6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Swing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Swing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ejercicios6" type="462c0819:PsiDirectoryNode" />
-              <item name="carteleraCine" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Swing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Swing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="panelesJPanel2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Swing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Swing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="panelesJPanel2" type="462c0819:PsiDirectoryNode" />
-              <item name="BoxLayout" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Swing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Swing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ventanasJFrame1" type="462c0819:PsiDirectoryNode" />
+              <item name="$ejerciciosLibro" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -285,7 +260,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Cartelera">
+  <component name="RunManager" selected="Application.Ejemplo1">
     <configuration name="Cartelera" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ejercicios6.carteleraCine.Cartelera" />
       <module name="Swing" />
@@ -293,6 +268,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ejercicios6.carteleraCine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Ejemplo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="$ejerciciosLibro.Ejemplo1" />
+      <module name="Swing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="$ejerciciosLibro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -326,17 +312,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="panelesJPanel2.panelesTamañosFijos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Ventana (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="botonesJButton4.boton2.Ventana" />
-      <module name="Swing" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="botonesJButton4.boton2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -405,19 +380,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Ventana (5)" />
       <item itemvalue="Application.Window" />
       <item itemvalue="Application.Window (1)" />
       <item itemvalue="Application.Interface02" />
       <item itemvalue="Application.Cartelera" />
+      <item itemvalue="Application.Ejemplo1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejemplo1" />
         <item itemvalue="Application.Cartelera" />
         <item itemvalue="Application.Interface02" />
         <item itemvalue="Application.Window (1)" />
         <item itemvalue="Application.Window" />
-        <item itemvalue="Application.Ventana (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -437,7 +412,8 @@
       <workItem from="1552906134446" duration="4686000" />
       <workItem from="1552990677135" duration="2003000" />
       <workItem from="1553069467191" duration="6110000" />
-      <workItem from="1553275344483" duration="11731000" />
+      <workItem from="1553275344483" duration="12068000" />
+      <workItem from="1553456174658" duration="3720000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Primera versión de la cartelera&quot;">
       <created>1553284639852</created>
@@ -453,14 +429,21 @@
       <option name="project" value="LOCAL" />
       <updated>1553286128097</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="&quot;Cartelera finalizada&quot;">
+      <created>1553287847631</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1553287847631</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32836000" />
+    <option name="totallyTimeSpent" value="36893000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1236" y="0" width="1324" height="1440" extended-state="6" />
+    <frame x="0" y="0" width="716" height="800" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -472,25 +455,26 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50074077" side_tool="true" weight="0.2683109" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49925926" weight="0.2683109" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27503738" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28380385" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49925926" weight="0.2679083" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32884902" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13416536" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13798219" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32884902" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39964157" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32884902" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -530,7 +514,8 @@
     <MESSAGE value="&quot;Interface02 modificada, atributos encapsulados&quot;" />
     <MESSAGE value="&quot;Primera versión de la cartelera&quot;" />
     <MESSAGE value="&quot;Segunda versión de la cartelera&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Segunda versión de la cartelera&quot;" />
+    <MESSAGE value="&quot;Cartelera finalizada&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Cartelera finalizada&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -591,18 +576,102 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ejercicios6/colores02/Interface02.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1861#1862#0" expanded="true" />
+            <element signature="e#1918#1919#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ejercicios6/carteleraCine/Pelicula.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/panelesJPanel2/BoxLayout/Ventana.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ejercicios6/carteleraCine/Cartelera.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1909">
+          <caret line="84" column="23" lean-forward="true" selection-start-line="84" selection-start-column="23" selection-end-line="84" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/etiquetasJLabel3/Ventana.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="39" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/botonesJButton4/boton2/Ventana.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1541">
+          <caret line="98" column="8" selection-start-line="98" selection-start-column="8" selection-end-line="101" selection-end-column="27" />
+          <folding>
+            <element signature="method#setJLabels#0;class#Ventana#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/eventosTecladoRaton5/raton/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/eventosTecladoRaton5/teclado/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2461">
+          <caret line="122" column="44" selection-start-line="122" selection-start-column="44" selection-end-line="122" selection-end-column="44" />
+          <folding>
+            <element signature="e#3211#3212#0" expanded="true" />
+            <element signature="e#3263#3264#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ejercicios6/contadorClicks01/Interface01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ejercicios6/colores02/Interface02.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="920">
           <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1861#1862#0" expanded="true" />
             <element signature="e#1918#1919#0" expanded="true" />
-            <element signature="e#2071#2072#0" expanded="true" />
-            <element signature="e#2128#2129#0" expanded="true" />
-            <element signature="e#2383#2384#0" expanded="true" />
-            <element signature="e#2423#2424#0" expanded="true" />
-            <element signature="e#2695#2696#0" expanded="true" />
-            <element signature="e#2752#2753#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -651,10 +720,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2001">
           <caret line="87" selection-start-line="87" selection-end-line="88" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#setJLabels#0;class#Ventana#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -802,7 +867,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/etiquetasJLabel3/Ventana.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="598">
           <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="39" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -814,10 +879,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="537">
           <caret line="78" column="8" selection-start-line="78" selection-start-column="8" selection-end-line="78" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#setJLabels#0;class#Ventana#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -864,7 +925,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ejercicios6/contadorClicks01/Interface01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
+        <state relative-caret-position="92">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -874,18 +935,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ejercicios6/colores02/Interface02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+        <state relative-caret-position="483">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1861#1862#0" expanded="true" />
             <element signature="e#1918#1919#0" expanded="true" />
-            <element signature="e#2071#2072#0" expanded="true" />
-            <element signature="e#2128#2129#0" expanded="true" />
-            <element signature="e#2383#2384#0" expanded="true" />
-            <element signature="e#2423#2424#0" expanded="true" />
-            <element signature="e#2695#2696#0" expanded="true" />
-            <element signature="e#2752#2753#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -894,20 +949,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-          <folding>
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#450#451#0" expanded="true" />
-            <element signature="e#479#480#0" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
-            <element signature="e#541#542#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/panelesJPanel2/BoxLayout/Ventana.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
+        <state relative-caret-position="138">
           <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -917,11 +964,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ejercicios6/carteleraCine/Cartelera.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="84" column="23" lean-forward="true" selection-start-line="84" selection-start-column="23" selection-end-line="84" selection-end-column="23" />
+        <state relative-caret-position="1337">
+          <caret line="84" column="23" selection-start-line="84" selection-start-column="23" selection-end-line="84" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/$ejerciciosLibro/Ejemplo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-349">
+          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#731#732#0" expanded="true" />
+            <element signature="e#776#777#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
