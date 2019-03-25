@@ -65,7 +65,7 @@ public class Ventana extends JFrame {
         /*
         AHORA CREAMOS UNA NUEVA ETIQUETA DONDE ADJUNTAREMOS UNA IMAGEN
          */
-        ImageIcon imageIcon = new ImageIcon("emoticono.jpg");
+        ImageIcon imageIcon = new ImageIcon("src/emoticono.jpg");
         jLabelImage = new JLabel();
         // damos tamaño y posicion a la etiqueta
         jLabelImage.setBounds(100,110,250,250);

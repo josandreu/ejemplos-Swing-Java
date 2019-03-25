@@ -1,0 +1,38 @@
+JWindow
+ventana sin barra de título y sin los botones que permiten su manipulación.
+
+JFrame
+ventana con barra de título y con los botones que permiten su manipulación.
+
+JDialog
+permite visualizar una caja de diálogo
+
+JApplet
+permite crear una applet Swing: programa que visualiza una interfaz gráfica en el contexto de una página web
+
+COMPONENTES
+
+JButton
+botón de pulsación
+
+JMenuItem
+elemento de un menu (en esencia, es un botón situado en una lista)
+
+JCheckBoxMenuItem
+elemento de un menu que puede ser seleccionado o deseleccionado
+
+JMenu
+menú de una barra de menus (JMenuBar) compuesto por objetos JMenuItem y JSeparator
+
+JRadioButtonMenuItem
+elemento que forma parte de un grupo de elementos de un menu, de los cuales solo puede ser seleccionado uno.
+
+JToggleButton
+botón de dos estados (seleccionado / deseleccionado)
+
+JCheckBox
+casilla de verificación que muestra gráficamente su estado, seleccionado o deseleccionado, al usuario.
+
+JRadioButton
+botón de opción que muestra gráficamente su estado, seleccionado o deseleccionado, al usuario.
+
