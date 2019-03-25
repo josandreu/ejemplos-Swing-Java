@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="860783fe-8da2-498a-8619-b4b5254d0d9a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/$ejerciciosLibro/Ejemplo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Swing/panelesJPanel2/panelesTamañosFijos/Ventana.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -413,7 +410,7 @@
       <workItem from="1552990677135" duration="2003000" />
       <workItem from="1553069467191" duration="6110000" />
       <workItem from="1553275344483" duration="12068000" />
-      <workItem from="1553456174658" duration="3720000" />
+      <workItem from="1553456174658" duration="3777000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Primera versión de la cartelera&quot;">
       <created>1553284639852</created>
@@ -436,11 +433,18 @@
       <option name="project" value="LOCAL" />
       <updated>1553287847631</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="&quot;Añadidos ejemplos del libro&quot;">
+      <created>1553460056714</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1553460056714</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36893000" />
+    <option name="totallyTimeSpent" value="36950000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="716" height="800" extended-state="6" />
@@ -515,7 +519,8 @@
     <MESSAGE value="&quot;Primera versión de la cartelera&quot;" />
     <MESSAGE value="&quot;Segunda versión de la cartelera&quot;" />
     <MESSAGE value="&quot;Cartelera finalizada&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Cartelera finalizada&quot;" />
+    <MESSAGE value="&quot;Añadidos ejemplos del libro&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Añadidos ejemplos del libro&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
